@@ -72,15 +72,6 @@ MediaPipe will be used to capture live video input and track body points for rea
 - MediaPipe runs efficiently in real-time, ensuring low-latency tracking for smooth avatar animations.
 - **Ready Player Me** provides customizable avatars that can be integrated into various applications. You can select or create your avatar and then use the provided URL to load it into the project.
 
-## Contributions
-
-We welcome contributions! Feel free to open issues, submit pull requests, or suggest new features. If you encounter any bugs or have ideas for improvements, don't hesitate to share them.
-
-### To contribute:
-1. Fork the repository.
-2. Create a new branch with your feature or fix.
-3. Make your changes and commit them.
-4. Submit a pull request for review.
 
 ## License
 
